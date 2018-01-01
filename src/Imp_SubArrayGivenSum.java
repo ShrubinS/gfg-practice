@@ -13,7 +13,9 @@ class Index {
     }
 }
 
-public class SubArrayGivenSum {
+// https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0
+
+public class Imp_SubArrayGivenSum {
 
     private static Index subArrayIndices(int[] arr, int n, int sum) {
         Index index = new Index();

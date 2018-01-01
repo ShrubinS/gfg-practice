@@ -2,7 +2,9 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class KadanesAlgorithm {
+// https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0
+
+class Imp_KadanesAlgorithm {
 
 
     private static int contiguousSubArray(int[] arr, int n) {
